@@ -19,3 +19,15 @@ In short, let assume my strategy to play Roulette is like this: We start with so
    1. What is the estimated probability of winning $80 within 1000 sequential bets?
    2. What is the estimated expected value of our winnings after 1000 sequential bets?
    3. Does the standard deviation reach a maximum value then stabilize or converge as the number of sequential bets increases?
+
+### Figures & Results
+*Experiment 1:*
+- Figure 1: Run simple simulator 10 times and track the winnings, starting from 0 each time.
+- Figure 2: Run simple simulator 1000 times. Plot the mean value of winnings for each spin as well as additional two lines: mean+std & mean-std.
+- Figure 3: Use the same data used for Figure 2, but plot the median instead of the mean.
+
+*Experiment 2:*
+- Figure 4: Run simple simulator 1000 times. Plot the mean value of winnings for each spin as well as additional two lines: mean+std & mean-std.
+- Figure 5: Use the same data used for Figure 2, but plot the median instead of the mean.
+
+
